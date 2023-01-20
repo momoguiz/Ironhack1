@@ -1,0 +1,5 @@
+const chalk=require('chalk')
+console.log(chalk.blue('Nom, Paul'))
+console.log(chalk.white('Nom, Barbara'))
+console.log(chalk.red('Nom, Vaitu'))
+console.log(chalk.yellow('Nom, Marion'))
